@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "Increases the world height to 1024 blocks (-512, 512)"
+  }
+}
